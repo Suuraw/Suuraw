@@ -7,7 +7,7 @@
 
 
 
-
+<div align="center">
   <br>
 
   ## 👨‍💻 Sujay Kumar | MERN Stack Developer
