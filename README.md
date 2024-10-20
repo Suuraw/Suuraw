@@ -2,7 +2,7 @@
 [![MasterHead](<img src="file:///C:/Users/KIIT/Downloads/MelRibeiro%20-%20Overview.gif" alt="file:///C:/Users/KIIT/Downloads/MelRibeiro%20-%20Overview.gif" width="246" height="246" class="shrinkToFit transparent">)
 <h1 align="center">Hi 👋, I'm Sujay Kumar</h1>
 <h3 align="center">MERN Stack Enthusiast | Aspiring DevOps Engineer | Bridging Frontend Innovation with Seamless Deployments</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/KIIT/Downloads/Debbie%20Balboa.gif"/>
+<img align="right" alt="Coding" width="400" src="https://s6.ezgif.com/tmp/ezgif-6-c3562f4277.webm"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suuraw" alt="suuraw" /></a> </p>
 
 - 🔭 I’m currently working on **AgroPredict**
