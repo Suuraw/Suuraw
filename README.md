@@ -1,5 +1,7 @@
 
-![MasterHead](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)
+![MasterHead](<p align="center">
+  <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" alt="MasterHead" height="250px" />
+</p>)
 
 <h1 align="center">Hi 👋, I'm Sujay Kumar</h1>
 <h3 align="center">MERN Stack Enthusiast | Aspiring DevOps Engineer | Bridging Frontend Innovation with Seamless Deployments</h3>
