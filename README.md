@@ -1,6 +1,6 @@
 
 ![MasterHead](<p align="center">
-  <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" alt="MasterHead" height="250px" />
+  <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" alt="MasterHead" height="500px" width="100%"/>
 </p>)
 
 <h1 align="center">Hi 👋, I'm Sujay Kumar</h1>
