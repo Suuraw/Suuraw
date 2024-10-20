@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/ea/d5/31/ead5310095b5d1bbcb37a462762b01e6.gif" alt="MasterHead" height="500px" width="100%"/>
 <h1 align="center">Hi 👋, I'm Sujay Kumar</h1>
 <h3 align="center">MERN Stack Enthusiast | Aspiring DevOps Engineer | Bridging Frontend Innovation with Seamless Deployments</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif"/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suuraw" alt="suuraw" /></a> </p> -->
 
 - 🔭 I’m currently working on **AgroPredict**
