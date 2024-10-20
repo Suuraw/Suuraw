@@ -13,7 +13,7 @@
 
   | 🚀 Current Focus | 💡 Skills |
   |------------------|-----------|
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> Tailwind CSS | Web Development |
+  | <img src="https://www.scottbrady91.com/img/logos/tailwind.png" width="20"/> Tailwind CSS | Web Development |
   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="20"/> DevOps Tools | MERN Stack |
 
   <br>
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.bing.com/images/blob?bcid=r49DGlaxoKUHl08E8VORX5iQJFXM.....7s" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.scottbrady91.com/img/logos/tailwind.png" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
