@@ -1,5 +1,5 @@
 
-  <img src="https://i.pinimg.com/originals/d9/5a/1b/d95a1bae178e524dae726d75329f1f43.gif" alt="MasterHead" height="500px" width="100%"/>
+  <img src="https://i.pinimg.com/originals/43/1c/e5/431ce5d15aab86f66a91ec9a07c9114f.gif" alt="MasterHead" height="500px" width="100%"/>
 <h1 align="center">Hi 👋, I'm Sujay Kumar</h1>
 <h3 align="center">MERN Stack Enthusiast | Aspiring DevOps Engineer | Bridging Frontend Innovation with Seamless Deployments</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
