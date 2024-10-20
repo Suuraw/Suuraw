@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sujay Kumar</h1>
 
 <h3 align="center">MERN Stack Enthusiast | Aspiring DevOps Engineer | Bridging Frontend Innovation with Seamless Deployments</h3>
-
+<br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif">
 
 
