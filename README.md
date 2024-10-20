@@ -19,14 +19,14 @@
   <br>
 
   [![Portfolio](https://img.shields.io/badge/-My_Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://buildwithsujay.vercel.app/)
-  [![Email](https://img.shields.io/badge/-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujayraw13@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](sujayraw13@gmail.com)
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sujay-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sujay kumar" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@sujayraw13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="@sujayraw13" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/sujayraw13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="sujayraw13" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sujay-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay kumar" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/sujayraw13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sujayraw13" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/sujayraw13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujayraw13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.bing.com/images/blob?bcid=r49DGlaxoKUHl08E8VORX5iQJFXM.....7s" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
