@@ -1,5 +1,6 @@
 
-[![MasterHead](<img src="file:///C:/Users/KIIT/Downloads/MelRibeiro%20-%20Overview.gif" alt="file:///C:/Users/KIIT/Downloads/MelRibeiro%20-%20Overview.gif" width="246" height="246" class="shrinkToFit transparent">)
+![MasterHead](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)
+
 <h1 align="center">Hi 👋, I'm Sujay Kumar</h1>
 <h3 align="center">MERN Stack Enthusiast | Aspiring DevOps Engineer | Bridging Frontend Innovation with Seamless Deployments</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
