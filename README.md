@@ -6,12 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suuraw&label=Profile%20views&color=0e75b6&style="flat" alt="suuraw" />
-</p>
 
 <div align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+
   <br>
 
   ## 👨‍💻 Sujay Kumar | MERN Stack Developer
