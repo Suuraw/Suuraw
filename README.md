@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif">
 
 <div align="center">
+<br>
 
-
-  ## 👨‍💻 Suuraw | MERN Stack Developer
+  👨‍💻 Suuraw | MERN Stack Developer
   <br/>
 
   | 🚀 Current Focus | 💡 Skills |
