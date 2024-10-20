@@ -10,15 +10,26 @@
   <img src="https://komarev.com/ghpvc/?username=suuraw&label=Profile%20views&color=0e75b6&style="flat" alt="suuraw" />
 </p>
 
-- 🔭 I'm currently working on **AgroPredict**
+<div align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+  <br>
 
-- 🌱 I'm currently learning **Tailwind, DevOps tools**
+  ## 👨‍💻 Sujay Kumar | MERN Stack Developer
 
-- 👨‍💻 All of my projects are available at [https://buildwithsujay.vercel.app/](https://buildwithsujay.vercel.app/)
+  <br>
+  <img src="https://img.shields.io/badge/-AgroPredict-000000?style=for-the-badge&logo=github&logoColor=white" alt="Current Project: AgroPredict" />
+  <br><br>
 
-- 💬 Ask me about **Web, MERN**
+  | 🚀 Current Focus | 💡 Skills | 📫 Contact |
+  |------------------|-----------|------------|
+  | <img src="https://img.icons8.com/ios-filled/50/ffffff/tailwind-css.png" width="20"/> Tailwind CSS | Web Development | [<img src="https://img.icons8.com/ios-filled/50/ffffff/website.png" width="20"/>](https://buildwithsujay.vercel.app/) Portfolio |
+  | <img src="https://img.icons8.com/ios-filled/50/ffffff/devops.png" width="20"/> DevOps Tools | MERN Stack | [<img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="20"/>](mailto:sujayraw13@gmail.com) Email |
 
-- 📫 How to reach me **sujayraw13@gmail.com**
+  <br>
+
+  [![Portfolio](https://img.shields.io/badge/-My_Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://buildwithsujay.vercel.app/)
+  [![Email](https://img.shields.io/badge/-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujayraw13@gmail.com)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
