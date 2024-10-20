@@ -12,10 +12,7 @@
   <br>
 
   ## 👨‍💻 Sujay Kumar | MERN Stack Developer
-
-  <br>
-  <img src="https://img.shields.io/badge/-AgroPredict-000000?style=for-the-badge&logo=github&logoColor=white" alt="Current Project: AgroPredict" />
-  <br><br>
+  <br/>
 
   | 🚀 Current Focus | 💡 Skills | 📫 Contact |
   |------------------|-----------|------------|
