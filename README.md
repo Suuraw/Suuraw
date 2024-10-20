@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif">
 
 <div align="center">
-  <br>
 
-  ## 👨‍💻 Sujay Kumar | MERN Stack Developer
+
+  ## 👨‍💻 Suuraw | MERN Stack Developer
   <br/>
 
   | 🚀 Current Focus | 💡 Skills |
@@ -19,7 +19,7 @@
   <br>
 
   [![Portfolio](https://img.shields.io/badge/-My_Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://buildwithsujay.vercel.app/)
-  [![Email](https://img.shields.io/badge/-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](sujayraw13@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujayraw13@gmail.com)
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
