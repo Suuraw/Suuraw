@@ -13,7 +13,7 @@
 
   | 🚀 Current Focus | 💡 Skills |
   |------------------|-----------|
-  | <div><img src="https://www.scottbrady91.com/img/logos/tailwind.png" width="20"/> Tailwind CSS | Web Development |<div/>
+  | <img src="https://www.scottbrady91.com/img/logos/tailwind.png" width="20"/> Tailwind CSS | Web Development |
   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="20"/> DevOps Tools | MERN Stack |
 
   <br>
