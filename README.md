@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sujay Kumar</h1>
 
 <h3 align="center">MERN Stack Enthusiast | Aspiring DevOps Engineer </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/30/5f/f8/305ff88e24f9460bb79644e197af92a9.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c4/3e/fb/c43efb1a856dc17b4f1cf97e1c7f86bb.gif">
 <!-- //https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif -->
 <!-- https://i.pinimg.com/originals/30/5f/f8/305ff88e24f9460bb79644e197af92a9.gif -->
 <div align="center">
