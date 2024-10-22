@@ -5,7 +5,7 @@
 <h3 align="center">MERN Stack Enthusiast | Aspiring DevOps Engineer </h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d5/75/c3/d575c3c0447f05a9f1a4b9e578727be7.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/7a/7b/d47a7b3584771cfa4a8e68ed1054bc3c.gif">
 <!-- //https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif -->
 <!-- https://i.pinimg.com/originals/30/5f/f8/305ff88e24f9460bb79644e197af92a9.gif -->
 <div align="center">
