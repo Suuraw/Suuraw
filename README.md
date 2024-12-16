@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://img.icons8.com/matisse/100/sql.png" alt="mssql" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/mongo-db.png" alt="mongoDb" width="40" height="40"/>
 </p>
 
