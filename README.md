@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" alt="express" width="40" height="40"/> -->
 
-<img src='https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,next,nodejs,ts,js,postgres,sql,java,git,firebase,mongodb,postman,gcp,express' alt="icon" />
+<img src='https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,next,nodejs,ts,js,postgres,java,git,firebase,mongodb,postman,gcp,express' alt="icon" />
 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> -->
   
