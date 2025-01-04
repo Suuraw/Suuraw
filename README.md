@@ -42,19 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" alt="express" width="40" height="40"/> -->
 
-<img src='https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,svelte,react,next,flask,django,nodejs,ts,js,postgres,mysql' alt="icon" />
+<img src='https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,next,nodejs,ts,js,postgres,mysql,java,git,firebase,mongodb' alt="icon" />
 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.scottbrady91.com/img/logos/tailwind.png" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://img.icons8.com/matisse/100/sql.png" alt="mssql" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/mongo-db.png" alt="mongoDb" width="40" height="40"/>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suuraw&show_icons=true&locale=en&layout=compact&theme=dark" alt="suuraw" /></p>
